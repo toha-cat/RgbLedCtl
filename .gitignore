@@ -36,3 +36,5 @@ Makefile*
 # QtCtreator CMake
 CMakeLists.txt.user
 
+# lua user config
+config.lua
