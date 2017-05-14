@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file alias="main.qml">qml/main.qml</file>
+        <file alias="ColorPicker.qml">qml/ColorPicker.qml</file>
+        <file alias="ColorSlider.qml">qml/ColorSlider.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file alias="AddFavorites">images/add_favorites.png</file>
+        <file alias="Checked">images/checked.png</file>
+    </qresource>
+</RCC>

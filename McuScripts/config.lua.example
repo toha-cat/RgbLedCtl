@@ -1,0 +1,5 @@
+c_wifi_ssid = "you-wifi-ssid"
+c_wifi_key = "you-wifi-pass"
+c_ip="192.168.1.201"
+c_netmask="255.255.255.0"
+c_gateway="192.168.1.1"
